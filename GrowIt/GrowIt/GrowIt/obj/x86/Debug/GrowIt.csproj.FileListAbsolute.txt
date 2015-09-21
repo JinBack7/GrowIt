@@ -1,0 +1,6 @@
+C:\Users\Jinyang\Desktop\GrowIt\GrowIt\GrowIt\bin\x86\Debug\GrowIt.exe
+C:\Users\Jinyang\Desktop\GrowIt\GrowIt\GrowIt\bin\x86\Debug\GrowIt.pdb
+C:\Users\Jinyang\Desktop\GrowIt\GrowIt\GrowIt\obj\x86\Debug\GrowIt.csprojResolveAssemblyReference.cache
+C:\Users\Jinyang\Desktop\GrowIt\GrowIt\GrowIt\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Users\Jinyang\Desktop\GrowIt\GrowIt\GrowIt\obj\x86\Debug\GrowIt.exe
+C:\Users\Jinyang\Desktop\GrowIt\GrowIt\GrowIt\obj\x86\Debug\GrowIt.pdb
