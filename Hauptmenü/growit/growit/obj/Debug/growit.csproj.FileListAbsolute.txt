@@ -1,0 +1,9 @@
+C:\Users\melih\Desktop\schüle\programmieren 3.klasse\growit\growit\bin\Debug\growit.exe.config
+C:\Users\melih\Desktop\schüle\programmieren 3.klasse\growit\growit\bin\Debug\growit.exe
+C:\Users\melih\Desktop\schüle\programmieren 3.klasse\growit\growit\bin\Debug\growit.pdb
+C:\Users\melih\Desktop\schüle\programmieren 3.klasse\growit\growit\obj\Debug\growit.csprojResolveAssemblyReference.cache
+C:\Users\melih\Desktop\schüle\programmieren 3.klasse\growit\growit\obj\Debug\growit.Form1.resources
+C:\Users\melih\Desktop\schüle\programmieren 3.klasse\growit\growit\obj\Debug\growit.Properties.Resources.resources
+C:\Users\melih\Desktop\schüle\programmieren 3.klasse\growit\growit\obj\Debug\growit.csproj.GenerateResource.Cache
+C:\Users\melih\Desktop\schüle\programmieren 3.klasse\growit\growit\obj\Debug\growit.exe
+C:\Users\melih\Desktop\schüle\programmieren 3.klasse\growit\growit\obj\Debug\growit.pdb
