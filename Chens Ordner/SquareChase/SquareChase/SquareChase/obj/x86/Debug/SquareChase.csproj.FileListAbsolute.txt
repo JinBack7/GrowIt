@@ -1,7 +1,0 @@
-G:\Schule\Programmieren\XNA\SquareChase\SquareChase\SquareChase\bin\x86\Debug\SquareChase.exe
-G:\Schule\Programmieren\XNA\SquareChase\SquareChase\SquareChase\bin\x86\Debug\SquareChase.pdb
-G:\Schule\Programmieren\XNA\SquareChase\SquareChase\SquareChase\obj\x86\Debug\SquareChase.csprojResolveAssemblyReference.cache
-G:\Schule\Programmieren\XNA\SquareChase\SquareChase\SquareChase\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
-G:\Schule\Programmieren\XNA\SquareChase\SquareChase\SquareChase\obj\x86\Debug\SquareChase.exe
-G:\Schule\Programmieren\XNA\SquareChase\SquareChase\SquareChase\obj\x86\Debug\SquareChase.pdb
-G:\Schule\Programmieren\XNA\SquareChase\SquareChase\SquareChase\bin\x86\Debug\Content\mini.xnb
