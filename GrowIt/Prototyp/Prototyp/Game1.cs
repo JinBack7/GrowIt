@@ -22,8 +22,9 @@ namespace Prototyp
 
             Window.Title = "GrowIt"; //Title Name wird hier eingegeben
             IsMouseVisible = true; //Damit man die Maus im Window sieht
-            graphics.PreferredBackBufferHeight = 540;
-            graphics.PreferredBackBufferWidth = 960;
+            graphics.PreferredBackBufferHeight = 540; //Setzt die Höhe auf 540
+            graphics.PreferredBackBufferWidth = 960; //Setzt die Breite auf 960
+            Window.AllowUserResizing = true; //Damit der User die Resolution anpassen kann
         }
 
         /// <summary>
@@ -87,10 +88,10 @@ namespace Prototyp
             GraphicsDevice.Clear(Color.CornflowerBlue);
 
             // TODO: Add your drawing code here
+
             spriteBatch.Begin(SpriteSortMode.Deferred, BlendState.AlphaBlend);
             spriteBatch.Draw(background, mainFrame, Color.White);
             spriteBatch.End();
-
 
             base.Draw(gameTime);
         }
